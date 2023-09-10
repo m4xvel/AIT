@@ -8,4 +8,7 @@
         <item name="android:background">@color/black_overlay</item>
         <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
     </style>
+    <style name="CustomEditTextStyle">
+        <item name="android:textCursorDrawable">@drawable/custom_cursor</item>
+    </style>
 </resources>
